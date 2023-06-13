@@ -27,7 +27,7 @@
 	}
 </script>
 
-<main>
+<main class="container">
 	{#if user}
 		{#if isUserVerified()}
 			<div>

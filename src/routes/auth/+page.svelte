@@ -103,6 +103,6 @@
 	}
 </script>
 
-<main>
+<main class="container">
 	<button on:click={signInWithGoogle}>Sign in with Google</button>
 </main>
